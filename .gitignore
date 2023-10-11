@@ -21,3 +21,5 @@ sql
 
 # Go workspace file
 go.work
+movies.sql
+gomovies
